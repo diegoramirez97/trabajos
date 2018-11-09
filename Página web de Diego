@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 title="Diego Ramirez">The title Attribute</h2>
+
+<p title="Hola, soy Diego RAMIREZ estudiante de ingeniería industrial del septimo ciclo, en la universidad UTEC.
+Me encuentro muy interesado en trabajar en las areas logísticas de aprovisionamiento, gestión de inventarios y distribución.
+Tengo conocimientos de simulación y optimización de operaciones, incluyendo softwares,  asi como de logistica y gGestion de la 
+cadena de Suministros.
+Por otro lado, me gusta mucho tocar cajon y montar bicicleta u">
+Mouse over this paragraph, to display the title attribute as a tooltip.
+</p>
+
+</body>
+</html>
