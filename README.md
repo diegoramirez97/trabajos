@@ -6,15 +6,6 @@
 <h2 style="font-family:verdana;">Lima-Perú</h2>
 <p>Hola, soy Diego Ramirez, estudiante de ingeniería industrial de la UTEC, me encuentro muy interesado en el área dde logística. Por otro lado me gusta tocar cajón y montar bicicleta.</p>
 
-</head>
-<body>
-
-<div class="bg"></div>
-
-<p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
-
-</body>
-<img src="w3schools.jpg" alt="W3Schools.com" width="105" height="105">
 
 <h3 style="font-family:verdana;"> Video</h3>
 
